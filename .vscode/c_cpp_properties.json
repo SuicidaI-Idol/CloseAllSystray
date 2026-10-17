@@ -1,0 +1,12 @@
+{
+  "version": 4,
+  "configurations": [{
+    "name": "Windows GCC x64",
+    "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+    "compileCommands": "${workspaceFolder}/build/cmake/Debug/compile_commands.json",
+    "intelliSenseMode": "windows-gcc-x64",
+    "cppStandard": "c++17",
+    "defines": ["UNICODE", "_UNICODE", "_WIN32_WINNT=0x0A00"],
+    "includePath": ["${workspaceFolder}/src"]
+  }]
+}

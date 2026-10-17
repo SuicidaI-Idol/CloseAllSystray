@@ -1,0 +1,7 @@
+{
+  "cmake.cmakePath": "C:/msys64/mingw64/bin/cmake.exe",
+  "cmake.useCMakePresets": "always",
+  "clangd.enable": false,
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.errorSquiggles": "enabled"
+}

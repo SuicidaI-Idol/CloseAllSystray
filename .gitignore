@@ -1,0 +1,9 @@
+/build/
+*.exe
+!/dist/CloseAllSystray-Setup.exe
+/dist/*
+!/dist/CloseAllSystray-Setup.exe
+/scan.txt
+*.user
+*.suo
+*.log
